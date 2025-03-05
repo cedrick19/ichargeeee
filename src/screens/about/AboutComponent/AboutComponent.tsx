@@ -1,5 +1,5 @@
 import { ReactElement } from "react";
-import costEffective from "@/assets/ichargemodel.webp";
+import costEffective from "@/assets/ichargemodel.png";
 import RocketLogo from "@/assets/about/rocket.png";
 import UnionLogo from "@/assets/about/Union.png";
 import VectorLogo from "@/assets/about/Vector.png";

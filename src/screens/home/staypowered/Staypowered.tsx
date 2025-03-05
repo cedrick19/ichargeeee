@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-import stayPoweredLogo from "@/assets/stayPoweredLogo.webp";
+import stayPoweredLogo from "@/assets/stayPoweredLogo.png";
 import { Label } from "@/components/ui/label";
 import LocalizationKey from "@/i18n/key";
 import { useTranslation } from "react-i18next";

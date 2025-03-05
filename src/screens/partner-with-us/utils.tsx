@@ -4,8 +4,8 @@ import { z } from "zod";
 
 import LocalizationKey from "@/i18n/key";
 
-import ichargeModel from "@/assets/ichargemodel.webp";
-import joinUs from "@/assets/pwu-join-us.webp";
+import ichargeModel from "@/assets/ichargemodel.png";
+import joinUs from "@/assets/pwu-join-us.svg";
 
 export const data: DataCardProps[] = [
   {

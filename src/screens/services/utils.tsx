@@ -5,20 +5,20 @@ import { useTranslation } from "react-i18next";
 import { useLocation } from "react-router-dom";
 import LocalizationKey from "@/i18n/key";
 
-import Products12Pro from "@/assets/Products/products/icharge12Pro.webp";
-import Products12 from "@/assets/Products/products/icharge12.webp";
-import Products8Plus from "@/assets/Products/products/icharge8Plus.webp";
-import Products8 from "@/assets/Products/products/icharge8.webp";
-import Products6 from "@/assets/Products/products/icharge6.webp";
-import Products24Max from "@/assets/Products/products/ichargeMax.webp";
-import ProductsQCRC from "@/assets/Products/products/ichargeQCRC.webp";
-import ProductsQCSQ from "@/assets/Products/products/ichargeQCSQ.webp";
+import Products12Pro from "@/assets/Products/products/icharge12Pro.png";
+import Products12 from "@/assets/Products/products/icharge12.png";
+import Products8Plus from "@/assets/Products/products/icharge8Plus.png";
+import Products8 from "@/assets/Products/products/icharge8.png";
+import Products6 from "@/assets/Products/products/icharge6.png";
+import Products24Max from "@/assets/Products/products/ichargeMax.png";
+import ProductsQCRC from "@/assets/Products/products/ichargeQCRC.png";
+import ProductsQCSQ from "@/assets/Products/products/ichargeQCSQ.png";
 
-import sectorHospitality from "@/assets/sectors/sectorHospitality.webp";
-import sectorHealthCare from "@/assets/sectors/sectorHealthcare.webp";
-import sectorTransport from "@/assets/sectors/sectorTransport.webp";
-import sectorEvents from "@/assets/sectors/sectorEvents.webp";
-import sectorRetail from "@/assets/sectors/sectorRetail.webp";
+import sectorHospitality from "@/assets/sectors/sectorHospitality.jpg";
+import sectorHealthCare from "@/assets/sectors/sectorHealthcare.jpg";
+import sectorTransport from "@/assets/sectors/sectorTransport.jpg";
+import sectorEvents from "@/assets/sectors/sectorEvents.jpg";
+import sectorRetail from "@/assets/sectors/sectorRetail.jpg";
 
 export const useServices = () => {
   const { t } = useTranslation();

@@ -10,11 +10,11 @@ import {
   CarouselItem,
 } from "@/components/ui/carousel";
 import { Label } from "@/components/ui/label";
-import sectorHospital from "@/assets/sectors/sectorHospitality.webp";
-import sectorHealthCare from "@/assets/sectors/sectorHealthcare.webp";
-import sectorTransport from "@/assets/sectors/sectorTransport.webp";
-import sectorEvents from "@/assets/sectors/sectorEvents.webp";
-import sectorRetail from "@/assets/sectors/sectorRetail.webp";
+import sectorHospital from "@/assets/sectors/sectorHospitality.jpg";
+import sectorHealthCare from "@/assets/sectors/sectorHealthcare.jpg";
+import sectorTransport from "@/assets/sectors/sectorTransport.jpg";
+import sectorEvents from "@/assets/sectors/sectorEvents.jpg";
+import sectorRetail from "@/assets/sectors/sectorRetail.jpg";
 import LocalizationKey from "@/i18n/key";
 
 const Sector = (): ReactElement => {

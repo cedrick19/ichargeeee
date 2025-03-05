@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 
 import LocalizationKey from "@/i18n/key";
 
-import bgImg from "@/assets/modern-man-using-smartphone-city-2.webp";
+import bgImg from "@/assets/modern-man-using-smartphone-city-2.png";
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
