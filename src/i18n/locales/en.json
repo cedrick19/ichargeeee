@@ -1,0 +1,663 @@
+{
+  "common": {
+    "selectPlaceholder": {
+      "label": "Please Select..."
+    },
+    "textfieldPlaceholder": {
+      "label": "Please Input..."
+    },
+    "textareaPlaceholder": {
+      "label": "Please Input..."
+    }
+  },
+  "home": {
+    "companyCarousel": {
+      "label": "Our Trusted Partners"
+    },
+    "ichargeSubheader": {
+      "label": "icharge offers a one-stop self-service mobile power bank rental service, providing a solution for charging your mobile devices while on the go."
+    },
+    "ichargeContinue": {
+      "label": "Continue"
+    },
+    "whyIcharge": {
+      "label": "WHY "
+    },
+    "convenience": {
+      "label": "Convenience"
+    },
+    "conveniencedesc": {
+      "label": "Offering rentable power banks enhances the convenience of your location, which can lead to increased foot traffic, longer and frequent visits."
+    },
+    "costEffective": {
+      "label": "Cost-effective"
+    },
+    "costEffectivedesc": {
+      "label": "At a very low cost of P29.00 per 30 minutes, patrons will be encouraged to stay longer and enjoy more of what your venue hast to offer, thereby boosting overall customer satisfaction."
+    },
+    "flexible": {
+      "label": "Flexible"
+    },
+    "flexibledesc": {
+      "label": "iCharge works to effortlessly and seamlessly integrate with a wide range of businesses and venues, offering reliable and flexible support no matter the location."
+    },
+    "WeOfferServices": {
+      "label": "WE OFFER SERVICES THAT FITS YOUR NEEDS"
+    },
+    "weOffer": {
+      "label": "WE OFFER SERVICES"
+    },
+    "fitsYourNeeds": {
+      "label": "THAT FITS YOUR NEEDS"
+    },
+    "freeUseOfEquipment": {
+      "label": "Free Use of Equipment"
+    },
+    "saleOfEquipment": {
+      "label": "Sale of Equipment"
+    },
+    "leaseOfEquipment": {
+      "label": "Lease of Equipment"
+    },
+    "howtoUseIcharge": {
+      "label": "HOW TO USE ICHARGE?"
+    },
+    "scan": {
+      "label": "Scan"
+    },
+    "scanDescription": {
+      "label": "Scan the QR code at any iCharge station to rent. Download the app."
+    },
+    "topUp": {
+      "label": "Top up"
+    },
+    "topUpDescription": {
+      "label": "Top up your credit using any payment method."
+    },
+    "charge": {
+      "label": "Charge"
+    },
+    "chargeDescription": {
+      "label": "Grab a power bank and charge your device anywhere."
+    },
+    "return": {
+      "label": "Return"
+    },
+    "returnDescription": {
+      "label": "Insert the power bank into iCharge station. Pay the rental fee."
+    },
+    "sectors": {
+      "label": "Sectors"
+    },
+    "stayPowered": {
+      "label": " STAY POWERED WITH ICHARGE"
+    },
+    "stayPoweredDesc": {
+      "label": "Convenient, reliable charging solutions for all your devices, wherever you go."
+    },
+    "stayPoweredBtn": {
+      "label": "View Products"
+    }
+  },
+  "navigation": {
+    "partnerwithUs": {
+      "label": "Partner with Us"
+    },
+    "services": {
+      "label": "Services"
+    },
+    "about": {
+      "label": "About"
+    },
+    "faqs": {
+      "label": "FAQs"
+    },
+    "certifications": {
+      "label": "Certifications"
+    }
+  },
+
+  "footer": {
+    "followUs": {
+      "label": "Follow Us"
+    },
+    "platforms": {
+      "label": "Our Platforms"
+    },
+    "aboutUs": {
+      "label": "About Us"
+    },
+    "company": {
+      "label": "QuantaDance Inc."
+    },
+    "stayInTheLoop": {
+      "label": "Powering Anyone, Anytime, Anywhere."
+    },
+
+    "contactUs": {
+      "label": "Contact Us"
+    },
+
+    "joinNewsletter": {
+      "label": "Join our Newsletter"
+    },
+
+    "privacyPolicy": {
+      "label": "Privacy Policy"
+    },
+    "termsOfService": {
+      "label": "Terms of Service"
+    },
+    "downloadApp": {
+      "label": "Download the App"
+    },
+
+    "newsletter": {
+      "label": "Subscribe to our Newsletter"
+    },
+    "emailPlaceholder": {
+      "label": "Enter your Email..."
+    },
+    "subscribe": {
+      "label": "Subscribe"
+    },
+    "copyright": {
+      "label": "2024 Quanta Dance, Inc"
+    },
+    "rightsReserved": {
+      "label": "All Rights Reserved."
+    },
+    "web": {
+      "label": "Web"
+    }
+  },
+
+  "customer": {
+    "heading": {
+      "label": "FREQUENTLY ASKED QUESTIONS"
+    },
+    "customerService": {
+      "label": "CUSTOMER SERVICE"
+    },
+    "customerServicesubHeading": {
+      "label": "Use the form below to send us an email and we will respond within 12 hours. If you need an immediate answer, our Customer Service team is just a click away, chat with us!"
+    },
+    "rentingAndReturning": {
+      "label": "Renting and Returning"
+    },
+    "chatWithUs": {
+      "label": "Chat With Us"
+    },
+    "faqData": [
+      {
+        "category": "Finding the Nearest iCharge Station",
+        "items": [
+          {
+            "question": "How can I find the nearest iCharge station?",
+            "answer": "You can use the iCharge app or visit our website to locate nearby stations. Our real-time map will help you quickly find the closest station."
+          }
+        ]
+      },
+      {
+        "category": "Renting a Power Bank",
+        "items": [
+          {
+            "question": "How do I rent the power bank?",
+            "answer": "Download the iCharge app from the App Store or Google Play. Use the app to scan the QR code on any iCharge station and follow the instructions."
+          }
+        ]
+      },
+      {
+        "category": "Using the Power Bank",
+        "items": [
+          {
+            "question": "Can I use the power bank to charge any device?",
+            "answer": "Yes, the power banks are compatible with most smartphones and devices."
+          },
+          {
+            "question": "Is there a time limit for how long I can use the power bank?",
+            "answer": "No, you can rent the power bank for as long as you need. Keep in mind that rental charges will apply based on the duration."
+          },
+          {
+            "question": "How do I check how long I’ve had the power bank and the cost so far?",
+            "answer": "This information is available in the app as soon as you start the rental. It shows both the duration and the cost, and will inform you about any unpaid usage."
+          }
+        ]
+      },
+      {
+        "category": "Returning the Power Bank",
+        "items": [
+          {
+            "question": "How do I return the power bank?",
+            "answer": "Just place the power bank into any empty slot at an iCharge station. Make sure it's fully pushed in."
+          },
+          {
+            "question": "What if the station is full when I try to return the power bank?",
+            "answer": "You can return the power bank at the same station or any nearby iCharge station. Just check the iCharge app for available slots."
+          }
+        ]
+      },
+      {
+        "category": "Payment and Refunds",
+        "items": [
+          {
+            "question": "How much does it cost to rent a power bank?",
+            "answer": "The rental fee depends on the duration and location. Our standard hourly rate is Php 49. Please check the iCharge app for current rates."
+          },
+          {
+            "question": "How do I pay for the rental charges?",
+            "answer": "After logging in to the app, use a valid payment method (GrabPay, Maya, GCash, Alipay, WeChat Pay, BDO, or UnionBank). The rental fee will be displayed in the iCharge app along with unpaid usage notifications."
+          },
+          {
+            "question": "How can I refund my deposit?",
+            "answer": "Go to the 'Wallet' page in the app. Press the 'Refund' button and submit. The refund will be returned to the same account you used to top-up."
+          },
+          {
+            "question": "If I’m issued a refund, how long will it take?",
+            "answer": "Once a refund is processed, it may take up to 15 days for the amount to reflect in your account."
+          },
+          {
+            "question": "What if I’m overcharged?",
+            "answer": "If you think you've been overcharged, contact the in-app support team. They will help resolve the issue."
+          }
+        ]
+      },
+      {
+        "category": "Troubleshooting Issues",
+        "items": [
+          {
+            "question": "What do I do if I can’t release a power bank from the station?",
+            "answer": "If you're having trouble, contact the support team through the app. They will assist you with the issue."
+          },
+          {
+            "question": "What do I do if the station is empty?",
+            "answer": "Check the iCharge app for nearby stations with available power banks."
+          },
+          {
+            "question": "What should I do if the app isn’t working?",
+            "answer": "Try refreshing the app first. If that doesn’t help, delete and reinstall the iCharge app. If the issue persists, contact customer support for assistance."
+          },
+          {
+            "question": "I haven’t received a verification code for the app. What should I do?",
+            "answer": "Make sure your phone has a strong mobile data or Wi-Fi signal. If the issue persists, double-check the phone number you entered or contact iCharge support."
+          }
+        ]
+      },
+      {
+        "category": "Support",
+        "items": [
+          {
+            "question": "How can I contact support?",
+            "answer": "You can reach support through the iCharge app or by emailing us at ichargebgc@gmail.com. We're here to help!"
+          },
+          {
+            "question": "What happens if I lose the power bank?",
+            "answer": "If you lose the power bank, contact customer support through the iCharge app."
+          }
+        ]
+      },
+      {
+        "category": "Account Deletion",
+        "items": [
+          {
+            "question": "How to delete your account?",
+            "answer": "To delete your account.\n\n1. Open the app\n2. Tap Settings ->Account cancellation\n\nWarning\n\nOnce your account is deleted, your personal data will be removed and you will no longer be able to use your account.\n• Delete your user information.\n• Your user account is unable to recover.\n• Re-register will be a new account.\n\nPlease make sure that all transactions have been closed and no disputes.\nAfter the account is deleted, It is deemed to automatically give up the rights and interest such as the return of funds that may have occurred in historical transactions."
+          }
+        ]
+      }
+    ]
+  },
+
+  "partnerWithUs": {
+    "partnerWithUsHeading": {
+      "label": "EMPOWER YOUR BUSINESS"
+    },
+    "heading1": {
+      "label": "Boost your business and keep your customers connected effortlessly."
+    },
+    "heading2": {
+      "label": "Partner with iCharge for seamless, reliable charging solutions."
+    },
+    "bannerBtn": {
+      "label": "Inquire Now"
+    },
+    "whyPartnerWithUs": {
+      "label": "WHY PARTNER WITH US?"
+    },
+    "whyPartnerWithUsDesc1": {
+      "label": "Quanta Dance Inc. provides more than just charging stations-we offer a comprehensive service that enhances the customer experience while reducing operational burdens."
+    },
+    "whyPartnerWithUsDesc2": {
+      "label": "Our focus on convenience, advanced global payment systems, and sustainability ensures that your business will benefit will benefit from an innovative, customer-centric solution."
+    },
+    "joinUs": {
+      "label": "JOIN US"
+    },
+    "joinUsDesc1": {
+      "label": "At Quanta Dance Inc., we are powering the future by providing innovative and sustainable charging solutions."
+    },
+    "joinUsDesc2": {
+      "label": " Together, we can ensure that everyone stays connected, charged, and ready for any adventure-locally and globally."
+    },
+    "wantToPartner": {
+      "label": "Want to Partner With Us?"
+    },
+    "getInTouch": {
+      "label": "Get in Touch"
+    },
+    "inquiryForm": {
+      "title": { "label": "FRANCHISE INQUIRY FORM" },
+      "attention": {
+        "label": "This form is only for inquiries regarding franchising and all other inquiries will not be passed on. Please inquire at the appropriate location if your inquiry pertains to a different subject."
+      },
+      "customer": {
+        "firstname": { "label": "Firstname" },
+        "lastname": { "label": "Lastname" },
+        "email": { "label": "Email" },
+        "phoneNumber": { "label": "Phone Number" },
+        "rentalLocation": { "label": "Rental Location" },
+        "rentalTime": { "label": "Rental Time" },
+        "returnLocation": { "label": "Return Location" },
+        "returnTime": { "label": "Return Time" },
+        "content": { "label": "Inquiry Content" },
+        "formBtn": { "label": "Submit Customer Service" }
+      },
+      "marketing": {
+        "firstname": { "label": "Firstname" },
+        "lastname": { "label": "Lastname" },
+        "company": {
+          "label": "Company"
+        },
+        "email": { "label": "Email" },
+        "phoneNumber": { "label": "Phone Number" },
+        "content": { "label": "Content" },
+        "formBtn": { "label": "Contact Us" }
+      }
+    }
+  },
+  "services": {
+    "servicesHeading": { "label": "FLEXIBLE CHARGING SOLUTIONS" },
+    "serviceFreeEquipmentTitle": { "label": "Free Use of Equipment" },
+    "serviceSaleEquipmentTitle": { "label": "Sale of Equipment" },
+    "serviceSustainabilitySocialTitle": {
+      "label": "Sustainability and Social Impact"
+    },
+    "servicesSubHeading": {
+      "label": "Offer your customers the power to stay connected with ease. Whether through free use or ownership, iCharge provides flexible solutions that fit your business and elevate customer experiences."
+    },
+    "viewProducts": { "label": "View Products" },
+    "serviceFreeEquipmentsubTitle": {
+      "label": "By partnering with iCharge, businesses can provide a valuable service to their customers without upfront costs. We handle everything from installation to maintenance and customer support, ensuring your customers remain powered and engaged longer."
+    },
+    "serviceFreeEquipmentbody1": {
+      "label": "No cost for equipment, hardware updates, or full-service maintenance."
+    },
+    "serviceFreeEquipmentbody2": {
+      "label": "Keeps visitors connected, enhancing their overall experience."
+    },
+    "serviceFreeEquipmentbody3": {
+      "label": "Positions your business as tech-savvy and customer-focused."
+    },
+    "serviceSaleEquipmentsubTitle": {
+      "label": "For businesses looking to own their charging stations, we offer a purchase option, allowing you to provide this service while creating an additional revenue stream."
+    },
+    "serviceSaleEquipmentbody1": {
+      "label": "Ownership of stations and revenue from powerbank rentals."
+    },
+    "serviceSaleEquipmentbody2": {
+      "label": "Customization and branding opportunities."
+    },
+    "serviceSaleEquipmentbody3": {
+      "label": "Increases customer foot traffic and engagement."
+    },
+    "serviceSustainabilitySocialbody": {
+      "label": " At Quanta Dance Inc. we are committed to sustainable practices by reducing electronic waste through the use of durable, reusable powerbanks. Our charging stations are environmentally friendly, promoting eco-conscious solutions that support a greener future, contributing to global efforts to reduce single-use battery waste."
+    },
+    "sectorHeading": { "label": "INDUSTRIES WE SERVE" },
+    "sectorSubHeading": { "label": "Powering Anyone, Anytime, Anywhere" },
+    "hospitality": {
+      "title": { "label": "Hospitality" },
+      "subtitle": {
+        "label": "Elevate guest experiences in hotels, restaurants, coffee shops, and bars by offering convenient charging options that allow visitors to stay connected."
+      },
+      "description": {
+        "sub1": {
+          "label": "Enhances guest satisfaction, leading to positive reviews and repeat visits."
+        },
+        "sub2": {
+          "label": "Encourages guests to spend more time in common areas."
+        },
+        "sub3": {
+          "label": "Differentiates your business by offering a unique, customer-focused service."
+        }
+      }
+    },
+    "healthcare": {
+      "title": { "label": "Healthcare" },
+      "subtitle": {
+        "label": "Offer peace of mind by providing charging stations in hospitals, clinics, gyms, and wellness centers, making the visit more comfortable for patients and visitors."
+      },
+      "description": {
+        "sub1": {
+          "label": "Improves the patient and visitor experience with convenient charging access."
+        },
+        "sub2": {
+          "label": "Reduces stress for visitors who rely on their phones for essential communication."
+        },
+        "sub3": {
+          "label": "Shows your facility’s commitment to innovation and customer care."
+        }
+      }
+    },
+    "transport": {
+      "title": { "label": "Transport" },
+      "subtitle": {
+        "label": "Keep travelers connected in airports, bus terminals, train stations, and other transport hubs by offering convenient charging solutions."
+      },
+      "description": {
+        "sub1": {
+          "label": "Provides critical charging services to passengers, reducing stress over low battery levels."
+        },
+        "sub2": {
+          "label": "Enhances customer satisfaction and improves perceptions of your transport hub."
+        },
+        "sub3": {
+          "label": "Increases dwell time in commercial areas such as airport shops and cafés."
+        }
+      }
+    },
+    "events": {
+      "title": { "label": "Events" },
+      "title2": { "label": "Leisure & Events" },
+      "subtitle": {
+        "label": "Keep attendees engaged during concerts, festivals, exhibitions, and sports events by offering reliable charging options that ensure they can stay connected."
+      },
+      "description": {
+        "sub1": {
+          "label": "Keeps attendees connected, allowing them to share their experiences online."
+        },
+        "sub2": {
+          "label": "Reduces frustration over low battery levels, enhancing the overall event experience."
+        },
+        "sub3": {
+          "label": "Increases dwell time, especially for multi-day events."
+        }
+      }
+    },
+    "retail": {
+      "title": {
+        "label": "Retail"
+      },
+      "subtitle": {
+        "label": "Enhance the shopping experience by offering charging stations in malls, supermarkets, department stores, and boutiques, encouraging customers to stay longer."
+      },
+      "description": {
+        "sub1": {
+          "label": "Increases dwell time, leading to more purchases."
+        },
+        "sub2": {
+          "label": "Shows that your business cares about customer satisfaction."
+        },
+        "sub3": {
+          "label": "Customizable branding to align with store aesthetics."
+        },
+        "sub4": {
+          "label": "Provides an edge over competitors by offering a value-added service."
+        }
+      }
+    },
+    "productHeading": { "label": "Products" },
+    "productMore": { "label": "More" },
+    "contents": { "label": "Contents" },
+    "size": { "label": "Size" },
+    "wattage": { "label": "Wattage" },
+    "slot": { "label": "Slot" },
+    "powerbanks": { "label": "Powerbank" },
+    "standby": { "label": "Standby" },
+    "fullload": { "label": "fullLoad" },
+    "icharge6desc": {
+      "label": "Smaller model for limited space"
+    },
+    "icharge6desc2": {
+      "label": "Seat Capacity: 40 below"
+    },
+    "icharge8desc": {
+      "label": "Compact standard model"
+    },
+    "icharge8desc2": {
+      "label": "Seat Capacity: 40-80"
+    },
+    "icharge8plusdesc": {
+      "label": "Compact model with advertisement capabilities"
+    },
+    "icharge8plusdesc2": {
+      "label": "Seat Capacity: Many Passerby"
+    },
+    "icharge12desc": {
+      "label": "Standard model"
+    },
+    "icharge12desc2": {
+      "label": "Seat Capacity: 80 above"
+    },
+    "icharge12prodesc": {
+      "label": "Advanced model with advertisement capabilities"
+    },
+    "icharge12prodesc2": {
+      "label": "Seat Capacity: Many Passerby"
+    },
+    "icharge24maxdesc": {
+      "label": "High capacity with extensive advertisement space"
+    },
+    "icharge24maxdesc2": {
+      "label": "Seat Capacity: Shopping malls, Big lobbies, Ballrooms"
+    },
+    "icharge48promaxdesc": {
+      "label": "High capacity with extensive advertisement space"
+    },
+    "icharge48promaxdesc2": {
+      "label": "Seat Capacity: Many Passerby"
+    },
+    "ichargestandeesrdesc": {
+      "label": "Standee model (rectangle)"
+    },
+    "ichargestandeessdesc": {
+      "label": "Standee model (rectangle)"
+    }
+  },
+  "about": {
+    "aboutHeading": {
+      "label": "We believe in a world where staying connected is effortless. With our innovative power bank stations, we make sure your customers can stay powered and ready for any adventure, anywhere."
+    },
+    "whoWeAre": {
+      "label": "WHO WE ARE"
+    },
+    "whoWeAreDesc1": {
+      "label": "Quanta Dance Inc. provides on-the-go charging solutions to keep people connected in today's digital world."
+    },
+    "whoWeAreDesc2": {
+      "label": "Our nationwide network of iCharge powerbank stations ensures that individuals and businesses can access reliable power anytime, anywhere across the Philippines."
+    },
+    "whoWeAreDesc3": {
+      "label": "We believe that staying powered is essential to staying connected, whether during everyday activities or critical moments."
+    },
+    "stayPowered": {
+      "label": "STAY POWERED"
+    },
+
+    "stayConnected": {
+      "label": "STAY CONNECTED"
+    },
+    "OurMission": {
+      "label": "Our Mission"
+    },
+    "OurMissionDesc": {
+      "label": "We aim to deliver convenient and reliable powerbank lending stations across the Philippines, with future expansion plans to serve global markets. By partnering with businesses, we enhance the customer experience in retail, hospitality, transport, healthcare, and event venues, offering a seamless solution for staying powered on the go."
+    },
+    "ourVision": {
+      "label": "Our Vision"
+    },
+    "ourVisionDesc": {
+      "label": "To be the leading provider of mobile charging solutions, ensuring that everyone, everywhere, remains connected at all times, whether locally or globally. Our vision includes scaling our solutions to reach high-traffic areas not just in the Philippines, but in major cities worldwide."
+    },
+    "ourReach": {
+      "label": "Our Reach"
+    },
+    "ourReachDesc1": {
+      "label": "Our iCharge stations are rapidly expanding in malls, restaurants, hospitals, transport hubs, and event venues across the country."
+    },
+    "ourReachDesc2": {
+      "label": "With integrated payment systems such as GCash, GrabPay, Alipay, Maya, WeChat Pay, UnionBank and BDO, our stations offer convenient, hassle-free access to mobile power, making it easier than ever to stay charged."
+    },
+    "ourReachDesc3": {
+      "label": "This flexibility mirrors global charging networks, offering customers a seamless experience wherever they go."
+    },
+    "summaryHead1": {
+      "label": "Advanced Technology Solutions"
+    },
+    "summaryDesc1": {
+      "label": "Our proprietary technology ensures a seamless charging experience for both businesses and end-users. The system features real-time monitoring and an intuitive interface that simplifies the management of charging stations."
+    },
+    "keyFeaturesHead": {
+      "label": "Key Features: "
+    },
+    "keyFeaturesList11": {
+      "label": "Real-Time Monitoring: Efficiently manage stations with live data insights."
+    },
+    "keyFeaturesList12": {
+      "label": "Global Payment Integration: Supports various payment methods, including GCash, GrabPay, Alipay, and credit cards, enabling access to charging services both locally and internationally."
+    },
+    "keyFeaturesList13": {
+      "label": "24/7 Technical Support: Available for all partners and end-users, ensuring operational reliability and customer satisfaction."
+    },
+    "summaryHead2": {
+      "label": "In-House IT and Software Solutions"
+    },
+    "summaryDesc2": {
+      "label": "Our proprietary software ensures a seamless charging experience with real-time monitoring and an easy-to-use interface. The software supports businesses in efficiently managing charging stations, offering quick transactions and smooth operations."
+    },
+    "keyFeaturesList21": {
+      "label": "Real-Time Monitoring: Efficiently manage stations with live data insights."
+    },
+    "keyFeaturesList22": {
+      "label": "User-Friendly Interface: Simplifies the customer charging experience."
+    },
+    "keyFeaturesList23": {
+      "label": "24/7 Technical Support: Available for both businesses and customers, ensuring operational reliability."
+    },
+    "summaryHead3": {
+      "label": "Proprietary Hardware"
+    },
+    "summaryDesc3": {
+      "label": "Our powerbank stations are built with custom-designed hardware that is adaptable to different locations. Whether in large shopping malls or small cafes, our stations are versatile and efficient."
+    },
+    "keyFeaturesList31": {
+      "label": "Scalability to meet the needs of both large and small spaces."
+    },
+    "keyFeaturesList32": {
+      "label": "High capacity for busy areas with heavy foot traffic."
+    },
+    "keyFeaturesList33": {
+      "label": "Easy Accessibility for users to rent and return powerbanks seamlessly."
+    }
+  }
+}

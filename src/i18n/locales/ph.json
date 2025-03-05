@@ -1,0 +1,572 @@
+{
+  "common": {
+    "selectPlaceholder": {
+      "label": "Pumili..."
+    },
+    "textfieldPlaceholder": {
+      "label": "Paki-input..."
+    },
+    "textareaPlaceholder": {
+      "label": "Paki-input..."
+    }
+  },
+  "home": {
+    "companyCarousel": {
+      "label": "Aming Mga Pinagkakatiwalaang Kasosyo"
+    },
+    "ichargeSubheader": {
+      "label": "Nag-aalok ang icharge ng one-stop self-service mobile power bank rental service, na nagbibigay ng solusyon sa pag-charge ng iyong mga mobile device habang on the go."
+    },
+    "ichargeContinue": {
+      "label": "Magpatuloy"
+    },
+    "whyIcharge": {
+      "label": "BAKIT "
+    },
+    "convenience": {
+      "label": "Kaginhawahan"
+    },
+    "conveniencedesc": {
+      "label": "Ang pag-aalok ng mga paupahang power bank ay nagpapahusay sa kaginhawahan ng iyong lokasyon, na maaaring humantong sa pagdami ng mga tao, mas mahahabang pagbisita, at mas madalas na pagbisita."
+    },
+    "costEffective": {
+      "label": "Makatipid"
+    },
+    "costEffectivedesc": {
+      "label": "Sa napakababang halaga na P29.00 bawat 30 minuto, mahihikayat ang mga bisita na manatili nang mas matagal at mas ma-enjoy ang mga inaalok ng iyong lugar, kaya't pinapataas ang kabuuang kasiyahan ng mga customer."
+    },
+    "flexible": {
+      "label": "Nag-aangkop"
+    },
+    "flexibledesc": {
+      "label": "Ang iCharge ay nagtrabaho upang walang hirap at tuluy-tuloy na makipag-ugnayan sa iba't ibang mga negosyo at lugar, na nag-aalok ng maaasahan at nababanat na suporta anuman ang lokasyon."
+    },
+    "WeOfferServices": {
+      "label": "NAG-aalok KAMI NG MGA SERBISYONG ANGKOP SA IYONG MGA PANGANGAILANGAN"
+    },
+    "freeUseOfEquipment": {
+      "label": "Libreng Paggamit ng Kagamitan"
+    },
+    "saleOfEquipment": {
+      "label": "Pagbebenta ng Kagamitan"
+    },
+    "leaseOfEquipment": {
+      "label": "Pag-upa ng Kagamitan"
+    },
+    "howtoUseIcharge": {
+      "label": "Paano Gamitin ang ICharge"
+    },
+    "scan": {
+      "label": "I-Scan"
+    },
+    "scanDescription": {
+      "label": "I-scan ang QR code na makikita sa kahit anong iCharge station upang simulan ang iyong renta."
+    },
+    "topUp": {
+      "label": "Top up"
+    },
+    "topUpDescription": {
+      "label": "I-top up ang iyong credit gamit ang anumang paraan ng pagbabayad."
+    },
+    "charge": {
+      "label": "I-Charge"
+    },
+    "chargeDescription": {
+      "label": "Kunin ang powerbank mula sa makina at i-charge ang iyong device kahit saan mo gusto."
+    },
+    "return": {
+      "label": "Ibalik"
+    },
+    "returnDescription": {
+      "label": "Ibalik ang powerbank sa pamamagitan ng pagpasok nito sa bakanteng slot sa alinmang makina na malapit sa iyo."
+    },
+    "sectors": {
+      "label": "Sektor"
+    },
+    "stayPowered": {
+      "label": "MANATILING KONEKTADO SA ICHARGE"
+    },
+    "stayPoweredDesc": {
+      "label": "Madali at maaasahang solusyon sa pag-charge para sa lahat ng iyong mga device, kahit saan ka magpunta."
+    },
+    "stayPoweredBtn": {
+      "label": "Tingnan ang mga Produkto"
+    }
+  },
+  "navigation": {
+    "partnerwithUs": {
+      "label": "Makipagtulungan sa Amin"
+    },
+    "services": {
+      "label": "Mga Serbisyo"
+    },
+    "about": {
+      "label": "Tungkol"
+    },
+    "faqs": {
+      "label": "Mga Madalas na Tanong"
+    },
+    "certifications": {
+      "label": "Mga Sertipikasyon"
+    }
+  },
+
+  "footer": {
+    "followUs": {
+      "label": "Sundan Kami"
+    },
+    "platforms": {
+      "label": "Mga Plataporma"
+    },
+    "aboutUs": {
+      "label": "Tungkol sa Amin"
+    },
+    "company": {
+      "label": "Kumpanya"
+    },
+    "stayInTheLoop": {
+      "label": "Manatiling updated sa lahat ng kailangan mong malaman."
+    },
+    "contactUs": {
+      "label": "Makipag-ugnayan sa Amin"
+    },
+    "joinNewsletter": {
+      "label": "Sumali sa aming Newsletter"
+    },
+    "privacyPolicy": {
+      "label": "Patakaran sa Pagkapribado"
+    },
+    "termsOfService": {
+      "label": "Mga Tuntunin ng Serbisyo"
+    },
+    "downloadApp": {
+      "label": "I-download ang App"
+    },
+    "newsletter": {
+      "label": "Mag-subscribe sa aming Newsletter"
+    },
+    "emailPlaceholder": {
+      "label": "Ilagay ang Email..."
+    },
+    "subscribe": {
+      "label": "subscribe"
+    },
+    "copyright": {
+      "label": "2024 Quanta Dance, Inc"
+    },
+    "rightsReserved": {
+      "label": "Lahat ng Karapatan ay Nakalaan."
+    },
+    "web": {
+      "label": "Web"
+    }
+  },
+
+  "customer": {
+    "heading": {
+      "label": "MGA MADALAS NA TANONG"
+    },
+    "customerService": {
+      "label": "SERBISYO NG CUSTOMER"
+    },
+    "customerServicesubHeading": {
+      "label": "Gamitin ang form sa ibaba para magpadala sa amin ng email at tutugon kami sa loob ng 12 oras. Kung kailangan mo ng agarang sagot, isang click lang ang aming Customer Service team, makipag-chat sa amin!"
+    },
+    "chatWithUs": {
+      "label": "Makipagchat sa Amin"
+    },
+    "faqData": [
+      {
+        "category": "Paghanap ng Pinakamalapit na iCharge Station",
+        "items": [
+          {
+            "question": "Paano ko mahahanap ang pinakamalapit na iCharge station?",
+            "answer": "Magagamit mo ang iCharge app o bisitahin ang aming website para makita ang mga malalapit na istasyon. Makakatulong ang aming real-time na mapa para mabilis mong mahanap ang pinakamalapit na istasyon."
+          }
+        ]
+      },
+      {
+        "category": "Pag-upa ng Power Bank",
+        "items": [
+          {
+            "question": "Paano ako makakapag-arkila ng power bank?",
+            "answer": "I-download ang iCharge app mula sa App Store o Google Play. Gamitin ang app para i-scan ang QR code sa anumang iCharge station at sundin ang mga instruksyon."
+          }
+        ]
+      },
+      {
+        "category": "Paggamit ng Power Bank",
+        "items": [
+          {
+            "question": "Pwede ko bang gamitin ang power bank sa kahit anong device?",
+            "answer": "Oo, compatible ang mga power bank sa karamihan ng mga smartphone at device."
+          },
+          {
+            "question": "May oras bang limitasyon sa paggamit ng power bank?",
+            "answer": "Wala, maaari mong upahan ang power bank nang gaano katagal mo gusto. Tandaan lang na ang bayad ay depende sa haba ng paggamit."
+          },
+          {
+            "question": "Paano ko malalaman kung gaano katagal ko nang ginagamit ang power bank at kung magkano na ang bayad?",
+            "answer": "Makikita ang impormasyong ito sa app mula sa oras na simulan mo ang pag-upa. Ipinapakita nito ang tagal ng paggamit at halaga, at ipapaalam din sa iyo kung may hindi nabayarang paggamit."
+          }
+        ]
+      },
+      {
+        "category": "Pagbabalik ng Power Bank",
+        "items": [
+          {
+            "question": "Paano ko ibabalik ang power bank?",
+            "answer": "Ilagay lang ang power bank sa anumang bakanteng slot sa iCharge station. Siguraduhing maayos itong nakapasok."
+          },
+          {
+            "question": "Paano kung puno ang istasyon kapag ibabalik ko ang power bank?",
+            "answer": "Pwede mong ibalik ang power bank sa parehong istasyon o sa ibang kalapit na iCharge station. Tingnan ang iCharge app para sa mga bakanteng slot."
+          }
+        ]
+      },
+      {
+        "category": "Bayad at Refund",
+        "items": [
+          {
+            "question": "Magkano ang pag-upa ng power bank?",
+            "answer": "Ang bayad sa pag-upa ay depende sa tagal at lokasyon. Ang karaniwang rate kada oras ay Php 49. Tingnan ang iCharge app para sa kasalukuyang mga rate."
+          },
+          {
+            "question": "Paano ako magbabayad para sa renta?",
+            "answer": "Pagkatapos mag-log in sa app, pumili ng valid na paraan ng pagbabayad (GrabPay, Maya, GCash, Alipay, WeChat Pay, BDO, o UnionBank). Ipapakita ng iCharge app ang bayad at ipapaalala sa iyo ang anumang hindi nabayarang paggamit."
+          },
+          {
+            "question": "Paano ako makakakuha ng refund ng deposit?",
+            "answer": "Pumunta sa 'Wallet' page sa app. Pindutin ang 'Refund' at isumite. Ang refund ay ibabalik sa parehong account na ginamit mo para mag-top-up."
+          },
+          {
+            "question": "Gaano katagal bago pumasok ang refund sa aking account?",
+            "answer": "Kapag na-proseso na ang refund, maaaring abutin ng hanggang 15 araw bago ito pumasok sa iyong account."
+          },
+          {
+            "question": "Paano kung nasobrahan ako sa singil?",
+            "answer": "Kung tingin mo'y nasobrahan ka ng singil, makipag-ugnayan sa in-app support team para matulungan ka nilang maresolba ang isyu."
+          }
+        ]
+      },
+      {
+        "category": "Pag-troubleshoot ng mga Isyu",
+        "items": [
+          {
+            "question": "Ano ang gagawin ko kung hindi ko mailabas ang power bank mula sa istasyon?",
+            "answer": "Kung may problema, kontakin ang support team sa app. Tutulungan ka nila sa iyong isyu."
+          },
+          {
+            "question": "Ano ang gagawin ko kung walang laman ang istasyon?",
+            "answer": "Tingnan ang iCharge app para sa mga kalapit na istasyon na may available na power bank."
+          },
+          {
+            "question": "Ano ang gagawin kung hindi gumagana ang app?",
+            "answer": "Subukang i-refresh ang app. Kung hindi pa rin gumagana, i-delete at i-reinstall ang iCharge app. Kung magpapatuloy ang isyu, kontakin ang customer support para sa tulong."
+          },
+          {
+            "question": "Hindi ko natanggap ang verification code para sa app. Ano ang gagawin ko?",
+            "answer": "Siguraduhing malakas ang iyong mobile data o Wi-Fi signal. Kung hindi pa rin gumana, i-double check ang numero ng telepono o kontakin ang iCharge support."
+          }
+        ]
+      },
+      {
+        "category": "Suporta",
+        "items": [
+          {
+            "question": "Paano ako makakakontak sa support?",
+            "answer": "Pwede kang makipag-ugnayan sa support sa pamamagitan ng iCharge app o mag-email sa amin sa ichargebgc@gmail.com. Nandito kami para tumulong!"
+          },
+          {
+            "question": "Ano ang mangyayari kung mawala ko ang power bank?",
+            "answer": "Kung mawala mo ang power bank, kontakin ang customer support sa iCharge app."
+          }
+        ]
+      }
+    ]
+  },
+
+  "partnerWithUs": {
+    "partnerWithUsHeading": {
+      "label": "EMPOWER YOUR BUSINESS"
+    },
+    "heading1": {
+      "label": "Palakasin ang iyong negosyo at panatilihing konektado ang iyong mga customer nang walang kahirap-hirap."
+    },
+    "heading2": {
+      "label": "Maki-sosyo sa iCharge para sa walang tuloy tuloy, maaasahang solusyon pag karga."
+    },
+    "bannerBtn": {
+      "label": "Magtanong Ngayon"
+    },
+    "whyPartnerWithUs": {
+      "label": "BAKIT PARTNER SA AMIN?"
+    },
+    "whyPartnerWithUsDesc1": {
+      "label": "Nagbibigay ang Quanta Dance Inc. ng higit pa sa mga istasyon ng pagkarga-nag-aalok kami ng komprehensibong serbisyo na nagpapahusay sa karanasan ng customer habang binabawasan ang mga pasanin sa pagpapatakbo."
+    },
+    "whyPartnerWithUsDesc2": {
+      "label": "Tinitiyak ng aming pagtuon sa kaginhawahan, mga advanced na pandaigdigang sistema ng pagbabayad, at pagpapanatili na makikinabang ang iyong negosyo mula sa isang makabagong solusyon na nakasentro sa customer."
+    },
+    "joinUs": {
+      "label": "SUMALI SA AMIN"
+    },
+    "joinUsDesc1": {
+      "label": "Sa Quanta Dance Inc., pinapagana namin ang hinaharap sa pamamagitan ng pagbibigay ng mga makabago at napapanatiling solusyon sa pag karga."
+    },
+    "joinUsDesc2": {
+      "label": "Sama-sama, matitiyak nating mananatiling konektado, kargado, at handa ang lahat para sa anumang pakikipagsapalaran-lokal at sa buong mundo."
+    },
+    "wantToPartner": {
+      "label": "Gustong Makipagsosyo Sa Amin?"
+    },
+    "getInTouch": {
+      "label": "Makipag-ugnayan"
+    },
+    "inquiryForm": {
+      "title": { "label": "FRANCHISE INQUIRY FORM" },
+      "firstname": { "label": "Pangalan" },
+      "lastname": { "label": "Apelyido" },
+      "company": {
+        "label": "Kumpanya"
+      },
+      "email": { "label": "Email" },
+      "phoneNumber": { "label": "Telepono" },
+      "content": { "label": "Kontent" },
+      "formBtn": { "label": "I-submit" }
+    }
+  },
+
+  "services": {
+    "serviceMainBody": {
+      "label": "Bigyan ang iyong mga customer ng kapangyarihan upang manatiling konektado nang madali. Sa pamamagitan ng libreng paggamit o pagbili, nag-aalok ang iCharge ng mga flexible na solusyon na akma sa iyong negosyo at nagpapahusay sa karanasan ng mga customer."
+    },
+    "serviceViewProducts": {
+      "label": "Tingnan ang Mga Produkto"
+    },
+    "serviceFreeEquipmentTitle": { "label": "Libreng Paggamit ng Kagamitan" },
+    "serviceSaleEquipmentTitle": { "label": "Pagbebenta ng Kagamitan" },
+    "serviceSustainabilitySocialTitle": {
+      "label": "Pagpapanatili at Epekto sa Lipunan"
+    },
+    "serviceFreeEquipmentsubTitle": {
+      "label": "Sa pamamagitan ng pakikipagtulungan sa iCharge, maaaring magbigay ang mga negosyo ng mahalagang serbisyo sa kanilang mga customer nang walang paunang gastos. Kami ang bahala sa lahat mula sa pag-install hanggang sa pagpapanatili at customer support, tinitiyak na ang iyong mga customer ay palaging may lakas at mas masaya."
+    },
+    "serviceFreeEquipmentbody1": {
+      "label": "Walang bayad para sa kagamitan, pag-update ng hardware, o full-service maintenance."
+    },
+    "serviceFreeEquipmentbody2": {
+      "label": "Pinapanatili ang konektado ng mga bisita, pinapahusay ang kanilang kabuuang karanasan."
+    },
+    "serviceFreeEquipmentbody3": {
+      "label": "Ipinoposisyon ang iyong negosyo bilang tech-savvy at customer-focused."
+    },
+    "serviceSaleEquipmentsubTitle": {
+      "label": "Para sa mga negosyo na nais magkaroon ng kanilang sariling charging stations, nag-aalok kami ng opsyon sa pagbili, na nagbibigay-daan sa iyo na magbigay ng serbisyong ito habang lumilikha ng karagdagang kita."
+    },
+    "serviceSaleEquipmentbody1": {
+      "label": "Pagmamay-ari ng mga istasyon at kita mula sa pag-rentang powerbank."
+    },
+    "serviceSaleEquipmentbody2": {
+      "label": "Mga oportunidad sa customization at branding."
+    },
+    "serviceSaleEquipmentbody3": {
+      "label": "Nagpapataas ng foot traffic ng mga customer at pakikisalamuha."
+    },
+    "serviceSustainabilitySocialbody": {
+      "label": "Sa Quanta Dance Inc., kami ay nakatuon sa mga sustainable na gawain sa pamamagitan ng pagbabawas ng electronic waste gamit ang mga matibay at reusable na powerbanks. Ang aming mga charging station ay environment-friendly, nagpo-promote ng eco-conscious na mga solusyon na sumusuporta sa mas berdeng hinaharap, na nag-aambag sa mga pandaigdigang pagsisikap na bawasan ang single-use na battery waste."
+    },
+    "servicesHeading": { "label": "flexible na solusyon sa pag-charge" },
+    "servicesSubHeading": {
+      "label": "Bigyan ang iyong mga customer ng kapangyarihan upang manatiling konektado nang madali. Sa pamamagitan ng libreng paggamit o pagbili, nag-aalok ang iCharge ng mga flexible na solusyon na akma sa iyong negosyo at nagpapahusay sa karanasan ng mga customer."
+    },
+    "viewProducts": { "label": "Tingnan ang Mga Produkto" },
+    "sectorHeading": { "label": "Mga Industriyang Aming Pinagsisilbihan" },
+    "sectorSubHeading": {
+      "label": "Palakasin Kahit Sino, Kahit Kailan, Kahit Saan"
+    },
+    "hospitality": {
+      "title": { "label": "Pakikitungo" },
+      "subtitle": {
+        "label": "Pagandahin ang karanasan ng mga bisita sa mga hotel, restaurant, coffee shop, at bar sa pamamagitan ng pagbibigay ng mga maginhawang opsyon sa pag-charge na nagbibigay-daan sa mga bisita na manatiling konektado."
+      },
+      "description": {
+        "sub1": {
+          "label": "Pinapahusay ang kasiyahan ng mga bisita, na humahantong sa mga positibong review at paulit-ulit na pagbisita."
+        },
+        "sub2": {
+          "label": "Hinihikayat ang mga bisita na manatili ng mas matagal sa mga common areas."
+        },
+        "sub3": {
+          "label": "Nagiging iba ang iyong negosyo sa pamamagitan ng pagbibigay ng kakaibang, customer-focused na serbisyo."
+        }
+      }
+    },
+    "healthcare": {
+      "title": { "label": "Pangkalusugan" },
+      "subtitle": {
+        "label": "Magbigay ng kapanatagan ng loob sa pamamagitan ng pagbibigay ng charging stations sa mga ospital, klinika, gym, at wellness centers, na ginagawang mas komportable ang pagbisita para sa mga pasyente at bisita."
+      },
+      "description": {
+        "sub1": {
+          "label": "Pinapabuti ang karanasan ng pasyente at bisita sa pamamagitan ng maginhawang access sa pag-charge."
+        },
+        "sub2": {
+          "label": "Binabawasan ang stress para sa mga bisitang umaasa sa kanilang mga telepono para sa mahahalagang komunikasyon."
+        },
+        "sub3": {
+          "label": "Ipinapakita ang pangako ng iyong pasilidad sa inobasyon at customer care."
+        }
+      }
+    },
+    "transport": {
+      "title": { "label": "Transportasyon" },
+      "subtitle": {
+        "label": "Panatilihing konektado ang mga manlalakbay sa mga paliparan, terminal ng bus, estasyon ng tren, at iba pang transport hubs sa pamamagitan ng pagbibigay ng maginhawang solusyon sa pag-charge."
+      },
+      "description": {
+        "sub1": {
+          "label": "Nagbibigay ng kritikal na serbisyo sa pag-charge sa mga pasahero, na binabawasan ang stress sa mababang antas ng baterya."
+        },
+        "sub2": {
+          "label": "Pinapahusay ang kasiyahan ng mga customer at nagpapabuti ng impresyon sa iyong transport hub."
+        },
+        "sub3": {
+          "label": "Pinapahusay ang kasiyahan ng mga customer at nagpapabuti ng impresyon sa iyong transport hub."
+        }
+      }
+    },
+    "events": {
+      "title": { "label": "Mga Kaganapan" },
+      "title2": { "label": "Libangan at Kaganapan" },
+      "subtitle": {
+        "label": "Panatilihing aktibo ang mga kalahok sa mga konsyerto, festival, eksibisyon, at sports events sa pamamagitan ng pagbibigay ng mga maaasahang opsyon sa pag-charge na tinitiyak na mananatili silang konektado."
+      },
+      "description": {
+        "sub1": {
+          "label": "Pinapanatili ang konektado ng mga kalahok, na nagbibigay-daan sa kanilang ibahagi ang kanilang karanasan online."
+        },
+        "sub2": {
+          "label": "Binabawasan ang pagkabigo sa mababang antas ng baterya, na pinapaganda ang pangkalahatang karanasan sa kaganapan."
+        },
+        "sub3": {
+          "label": "Pinapataas ang oras ng pananatili, lalo na sa mga multi-day events."
+        }
+      }
+    },
+    "retail": {
+      "title": { "label": "Tingian" },
+      "subtitle": {
+        "label": "Pagandahin ang karanasan sa pamimili sa pamamagitan ng pagbibigay ng charging stations sa mga mall, supermarket, department stores, at boutiques, hinihikayat ang mga customer na manatili ng mas matagal."
+      },
+      "description": {
+        "sub1": {
+          "label": "Pinapataas ang oras ng pananatili, na nagreresulta sa mas maraming benta."
+        },
+        "sub2": {
+          "label": "Ipinapakita na ang iyong negosyo ay nagmamalasakit sa kasiyahan ng customer."
+        },
+        "sub3": {
+          "label": "Maaaring i-customize ang branding upang tumugma sa aesthetics ng tindahan."
+        }
+      }
+    },
+    "productHeading": { "label": "Mga Produkto" },
+    "productMore": { "label": "Higit Pa" }
+  },
+  "about": {
+    "aboutHeading": {
+      "label": "Naniniwala kami sa isang mundo kung saan ang pananatiling konektado ay walang kahirap-hirap. Sa pamamagitan ng aming makabagong mga power bank station, tinitiyak namin na ang iyong mga customer ay laging may karga at handa para sa anumang adventure, kahit saan"
+    },
+    "whoWeAre": {
+      "label": "Sino Kami"
+    },
+    "whoWeAreDesc1": {
+      "label": "Ang Quanta Dance Inc. ay nagbibigay ng mga solusyon sa pag-charge on-the-go upang mapanatiling konektado ang mga tao sa makabagong digital na mundo."
+    },
+    "whoWeAreDesc2": {
+      "label": "Ang aming pambansang network ng mga iCharge powerbank station ay nagsisiguro na ang mga indibidwal at negosyo ay may maaasahang access sa kuryente anumang oras, kahit saan sa Pilipinas."
+    },
+    "whoWeAreDesc3": {
+      "label": "Naniniwala kami na mahalaga ang manatiling may lakas upang manatiling konektado, maging sa pang-araw-araw na gawain o sa mahahalagang sandali."
+    },
+    "stayPowered": {
+      "label": "MANATILING MAY ENERHIYA"
+    },
+    "stayConnected": {
+      "label": "MANATILING KONEKTADO"
+    },
+    "OurMission": {
+      "label": "Ang Aming Misyon"
+    },
+    "OurMissionDesc": {
+      "label": "Layunin naming maghatid ng maginhawa at maaasahang mga powerbank lending station sa buong Pilipinas, na may mga plano para sa hinaharap na pagpapalawak upang maglingkod sa mga pandaigdigang merkado. Sa pamamagitan ng pakikipagsosyo sa mga negosyo, pinahusay namin ang karanasan ng mga customer sa retail, hospitality, transportasyon, healthcare, at mga venue ng kaganapan, na nag-aalok ng isang tuloy-tuloy na solusyon para sa pananatiling may lakas habang on the go."
+    },
+    "ourVision": {
+      "label": "Ang Aming Bisyon"
+    },
+    "ourVisionDesc": {
+      "label": "Layunin naming maghatid ng maginhawa at maaasahang mga powerbank lending station sa buong Pilipinas, na may mga plano para sa hinaharap na pagpapalawak upang maglingkod sa mga pandaigdigang merkado. Sa pamamagitan ng pakikipagsosyo sa mga negosyo, pinahusay namin ang karanasan ng mga customer sa retail, hospitality, transportasyon, healthcare, at mga venue ng kaganapan, na nag-aalok ng isang tuloy-tuloy na solusyon para sa pananatiling may lakas habang on the go."
+    },
+    "ourReach": {
+      "label": "Ang Aming Saklaw"
+    },
+    "ourReachDesc1": {
+      "label": "Ang aming mga iCharge station ay mabilis na lumalawak sa mga mall, restaurant, ospital, mga transport hub, at mga venue ng kaganapan sa buong bansa."
+    },
+    "ourReachDesc2": {
+      "label": "Sa mga integrated payment system tulad ng GCash, GrabPay, Alipay, Maya, WeChat Pay, UnionBank, at BDO, nag-aalok ang aming mga station ng maginhawa at walang abalang access sa mobile power, na ginagawang mas madali kaysa dati ang pananatiling naka-charge."
+    },
+    "ourReachDesc3": {
+      "label": "Ang flexibility na ito ay sumasalamin sa mga global charging network, na nag-aalok sa mga customer ng tuloy-tuloy na karanasan saan man sila magpunta."
+    },
+    "summaryHead1": {
+      "label": "Mga Advanced na Solusyon sa Teknolohiya"
+    },
+    "summaryDesc1": {
+      "label": "Ang aming proprietary technology ay tinitiyak ang seamless charging experience para sa parehong mga negosyo at end-users. May kasamang real-time monitoring at intuitive interface, pinapasimple nito ang pamamahala ng charging stations."
+    },
+    "keyFeaturesHead": {
+      "label": "Mga Pangunahing Tampok: "
+    },
+    "keyFeaturesList11": {
+      "label": "Real-Time Monitoring: Epektibong pamamahala ng mga stations gamit ang live data insights."
+    },
+    "keyFeaturesList12": {
+      "label": "Global Payment Integration: Sumusuporta sa iba't ibang paraan ng pagbabayad, kabilang ang GCash, GrabPay, Alipay, at credit cards, na nagbibigay-daan sa access sa charging services lokal man o internasyonal."
+    },
+    "keyFeaturesList13": {
+      "label": "24/7 Technical Support: Available para sa lahat ng partners at end-users, tinitiyak ang operational reliability at customer satisfaction."
+    },
+    "summaryHead2": {
+      "label": "In-House na IT at Software Solutions"
+    },
+    "summaryDesc2": {
+      "label": "Ang aming proprietary software ay nagtitiyak ng seamless charging experience sa pamamagitan ng real-time monitoring at user-friendly interface. Ang software ay sumusuporta sa mga negosyo sa epektibong pamamahala ng charging stations, nag-aalok ng mabilis na transaksyon at smooth operations."
+    },
+    "keyFeaturesList21": {
+      "label": "Real-Time Monitoring: Epektibong pamamahala ng mga stations gamit ang live data insights."
+    },
+    "keyFeaturesList22": {
+      "label": "User-Friendly Interface: Pinapasimple ang karanasan ng mga customer sa pag-charge."
+    },
+    "keyFeaturesList23": {
+      "label": "24/7 Technical Support: Available para sa parehong mga negosyo at customer, tinitiyak ang operational reliability."
+    },
+    "summaryHead3": {
+      "label": "Pinagmamay-ariang Hardware"
+    },
+    "summaryDesc3": {
+      "label": "Ang aming mga powerbank stations ay ginawa gamit ang custom-designed hardware na maaaring i-adapt sa iba't ibang lokasyon. Maging sa malalaking shopping malls o maliliit na cafés, ang aming mga stations ay versatile at efficient."
+    },
+    "keyFeaturesList31": {
+      "label": "Scalability: Akma sa pangangailangan ng parehong malaki at maliit na espasyo."
+    },
+    "keyFeaturesList32": {
+      "label": "High Capacity: Para sa mga lugar na may mataas na foot traffic."
+    },
+    "keyFeaturesList33": {
+      "label": "Easy Accessibility: Madaling pag-rent at pagbalik ng powerbanks para sa mga users."
+    }
+  }
+}

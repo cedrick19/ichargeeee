@@ -1,0 +1,637 @@
+{
+  "common": {
+    "selectPlaceholder": {
+      "label": "请选择..."
+    },
+    "textfieldPlaceholder": {
+      "label": "请输入..."
+    },
+    "textareaPlaceholder": {
+      "label": "请输入..."
+    }
+  },
+  "home": {
+    "companyCarousel": {
+      "label": "我们的信赖伙伴"
+    },
+    "ichargeSubheader": {
+      "label": "iCharge 提供一站式的自助行动电源租赁服务，为您的行动设备提供随时随地的充电解决方案。"
+    },
+    "ichargeContinue": {
+      "label": "继续"
+    },
+    "whyIcharge": {
+      "label": "为什么选择"
+    },
+    "convenience": {
+      "label": "便利性"
+    },
+    "conveniencedesc": {
+      "label": "提供可租借的移动电源提升了该地点的便利性，从而吸引更多人流，提高顾客停留的时间与频率"
+    },
+    "costEffective": {
+      "label": "性价比高"
+    },
+    "costEffectivedesc": {
+      "label": "每 30 分钟仅需 P29.00 的低成本，使顾客愿意停留更久，享受更多场地服务，进而提升整体顾客满意度"
+    },
+    "flexible": {
+      "label": "灵活"
+    },
+    "flexibledesc": {
+      "label": "iCharge致力于与各种企业和场所无缝集成，无论在什么地点都能提供可靠和灵活的支持"
+    },
+    "WeOfferServices": {
+      "label": "我们提供符合您需求的服务"
+    },
+    "weOffer": {
+      "label": "我们提供服务"
+    },
+    "fitsYourNeeds": {
+      "label": "满足您的需求"
+    },
+    "freeUseOfEquipment": {
+      "label": "设备免费使用"
+    },
+    "saleOfEquipment": {
+      "label": "设备销售"
+    },
+    "leaseOfEquipment": {
+      "label": "设备租赁"
+    },
+    "howtoUseIcharge": {
+      "label": "如何使用 iCharge？"
+    },
+    "scan": {
+      "label": "扫描"
+    },
+    "scanDescription": {
+      "label": "在任何 iCharge 站点扫描二维码即可租借。下载应用程序。"
+    },
+    "topUp": {
+      "label": "充值"
+    },
+    "topUpDescription": {
+      "label": "拿起行動電源，隨時隨地為您的裝置充電。"
+    },
+    "charge": {
+      "label": "充电"
+    },
+    "chargeDescription": {
+      "label": "从机器中取出行动电源，随时为您的设备充电。"
+    },
+    "return": {
+      "label": "归还"
+    },
+    "returnDescription": {
+      "label": "将移动电源插回 iCharge 充电站，支付租金。"
+    },
+    "sectors": {
+      "label": "行业"
+    },
+    "stayPowered": {
+      "label": "使用 ICHARGE 保持充电"
+    },
+    "stayPoweredDesc": {
+      "label": "方便可靠的充电解决方案，适用于所有设备，无论您身在何处。"
+    },
+    "stayPoweredBtn": {
+      "label": "查看产品"
+    }
+  },
+  "navigation": {
+    "partnerwithUs": {
+      "label": "与我们合作"
+    },
+    "services": {
+      "label": "服务"
+    },
+    "about": {
+      "label": "关于"
+    },
+    "faqs": {
+      "label": "常见问题"
+    },
+    "certifications": {
+      "label": "认证"
+    }
+  },
+
+  "footer": {
+    "followUs": {
+      "label": "关注我们"
+    },
+    "platforms": {
+      "label": "我们的平台"
+    },
+    "aboutUs": {
+      "label": "关于我们"
+    },
+    "company": {
+      "label": "量子舞蹈公司"
+    },
+    "stayInTheLoop": {
+      "label": "随时随地为任何人提供动力。"
+    },
+    "contactUs": {
+      "label": "联系我们"
+    },
+    "joinNewsletter": {
+      "label": "订阅我们的电子报"
+    },
+    "privacyPolicy": {
+      "label": "隐私政策"
+    },
+    "termsOfService": {
+      "label": "服务条款"
+    },
+    "downloadApp": {
+      "label": "下载应用程序"
+    },
+    "newsletter": {
+      "label": "订阅我们的电子报"
+    },
+    "emailPlaceholder": {
+      "label": "输入您的电子邮件..."
+    },
+    "subscribe": {
+      "label": "订阅"
+    },
+    "copyright": {
+      "label": "2024 Quanta Dance, Inc"
+    },
+    "rightsReserved": {
+      "label": "保留所有权利。"
+    },
+    "web": {
+      "label": "网页"
+    }
+  },
+  "customer": {
+    "heading": {
+      "label": "常见问题"
+    },
+    "customerService": {
+      "label": "客服"
+    },
+    "customerServicesubHeading": {
+      "label": "使用下方的表格发送电子邮件，我们将在 12 小时内回复您。如果需要立即解答，我们的客服团队随时为您服务，与我们聊天！"
+    },
+    "rentingAndReturning": {
+      "label": "租借与归还"
+    },
+    "chatWithUs": {
+      "label": "与我们聊天"
+    },
+    "faqData": [
+      {
+        "category": "寻找最近的 iCharge 站点",
+        "items": [
+          {
+            "question": "我如何找到最近的 iCharge 站点？",
+            "answer": "您可以使用 iCharge 应用程序或访问我们的网站，查看附近的站点。我们的实时地图会帮助您快速找到最近的站点。"
+          }
+        ]
+      },
+      {
+        "category": "租借充电宝",
+        "items": [
+          {
+            "question": "我如何租借充电宝？",
+            "answer": "从 App Store 或 Google Play 下载 iCharge 应用程序。使用该应用扫描任意 iCharge 站点的二维码，并按照说明操作。"
+          }
+        ]
+      },
+      {
+        "category": "使用充电宝",
+        "items": [
+          {
+            "question": "我可以用充电宝为任何设备充电吗？",
+            "answer": "可以，充电宝兼容大多数智能手机和设备。"
+          },
+          {
+            "question": "使用充电宝有时间限制吗？",
+            "answer": "没有，您可以根据需要租用充电宝，但请注意租赁费用将根据使用时间计算。"
+          },
+          {
+            "question": "我如何查看已使用的时间和费用？",
+            "answer": "在租赁开始后，应用程序会显示使用时长和费用，并提醒您是否有未支付的使用费用。"
+          }
+        ]
+      },
+      {
+        "category": "归还充电宝",
+        "items": [
+          {
+            "question": "我如何归还充电宝？",
+            "answer": "将充电宝插入任何 iCharge 站点的空槽中，确保完全插入。"
+          },
+          {
+            "question": "如果我要归还时站点已满怎么办？",
+            "answer": "您可以在相同或附近的 iCharge 站点归还充电宝。请通过 iCharge 应用查看是否有空位。"
+          }
+        ]
+      },
+      {
+        "category": "支付和退款",
+        "items": [
+          {
+            "question": "租借充电宝多少钱？",
+            "answer": "租赁费用根据租赁时长和地点而定。我们的标准每小时费率为 49 比索。请查看 iCharge 应用以获取最新费率。"
+          },
+          {
+            "question": "我如何支付租赁费用？",
+            "answer": "登录应用后，选择一种有效的支付方式（GrabPay、Maya、GCash、Alipay、微信支付、BDO 或 UnionBank）。应用会显示租赁费用并提醒您未支付的使用费。"
+          },
+          {
+            "question": "我如何退款我的押金？",
+            "answer": "在应用的“钱包”页面，点击“退款”按钮并提交。退款会退回到您用于充值的账户。"
+          },
+          {
+            "question": "退款需要多长时间？",
+            "answer": "退款处理后，可能需要最多 15 天才会反映到您的账户。"
+          },
+          {
+            "question": "如果我被多收了费用怎么办？",
+            "answer": "如果您认为被多收了费用，请通过应用内支持团队联系，他们会协助解决问题。"
+          }
+        ]
+      },
+      {
+        "category": "故障排除",
+        "items": [
+          {
+            "question": "如果我无法从站点取出充电宝怎么办？",
+            "answer": "如果遇到问题，请通过应用联系支持团队，他们会协助解决问题。"
+          },
+          {
+            "question": "如果站点没有充电宝怎么办？",
+            "answer": "请查看 iCharge 应用，寻找有充电宝的附近站点。"
+          },
+          {
+            "question": "如果应用无法正常工作怎么办？",
+            "answer": "请尝试刷新应用。如果问题仍然存在，请删除并重新安装 iCharge 应用。如果仍有问题，请联系客户支持。"
+          },
+          {
+            "question": "我没有收到应用的验证码，该怎么办？",
+            "answer": "请确保手机有良好的移动数据或 Wi-Fi 信号。如果问题持续，请检查您输入的手机号码或联系 iCharge 支持团队。"
+          }
+        ]
+      },
+      {
+        "category": "支持",
+        "items": [
+          {
+            "question": "我如何联系支持团队？",
+            "answer": "您可以通过 iCharge 应用联系支持团队，或发送电子邮件至 ichargebgc@gmail.com。我们乐意为您提供帮助！"
+          },
+          {
+            "question": "如果我弄丢了充电宝怎么办？",
+            "answer": "如果您丢失了充电宝，请通过 iCharge 应用联系客户支持。"
+          }
+        ]
+      },
+      {
+        "category": "注销账户",
+        "items": [
+          {
+            "question": "如何删除您的帐户？",
+            "answer": "删除您的账户.\n\n1. 打开应用程序\n2. 点击设置 -> 账户注销\n\n警告\n\n一旦您的账户被删除，您的个人数据将被删, \n除，并且您将无法再使用您的账户。\n• 删除您的用户信息.\n• 您的用户账户无法恢复.\n• 重新注册将成为一个新账户.\n\n请确保所有交易都已结束，没有任何争议。账户\n删除后，视为自动放弃历史交易中可能发生的\n资金返还等权益。"
+          }
+        ]
+      }
+    ]
+  },
+
+  "partnerWithUs": {
+    "partnerWithUsHeading": {
+      "label": "增强您的业务能力"
+    },
+    "heading1": {
+      "label": "轻松促进您的业务并让您的客户保持联系。"
+    },
+    "heading2": {
+      "label": "与 iCharge 合作，提供无缝、可靠的充电解决方案。"
+    },
+    "bannerBtn": {
+      "label": "立即咨询"
+    },
+    "whyPartnerWithUs": {
+      "label": "为什么与我们合作？"
+    },
+    "whyPartnerWithUsDesc1": {
+      "label": "Quanta Dance Inc. 提供的不仅仅是充电站，我们还提供全面的服务，增强客户体验，同时减轻运营负担."
+    },
+    "whyPartnerWithUsDesc2": {
+      "label": "我们对便利性、先进的全球支付系统和可持续性的关注确保您的企业将从以客户为中心的创新解决方案中受益。"
+    },
+    "joinUs": {
+      "label": "加入我们"
+    },
+    "joinUsDesc1": {
+      "label": "在Quanta Dance Inc.，我们通过提供创新和可持续的充电解决方案为未来提供动力。"
+    },
+    "joinUsDesc2": {
+      "label": " 我们可以共同确保每个人保持联系、充电并为本地和全球的任何冒险做好准备。"
+    },
+    "wantToPartner": {
+      "label": "想与我们合作吗？"
+    },
+    "getInTouch": {
+      "label": "联系我们"
+    },
+    "inquiryForm": {
+      "title": { "label": "特许经营查询表" },
+      "attention": {
+        "label": "此表格仅用于有关特许经营的询问，所有其他询问将不会被传递。如果您的询问涉及其他主题，请在适当的地点询问。"
+      },
+      "customer": {
+        "firstname": { "label": "名" },
+        "lastname": { "label": "姓" },
+        "email": { "label": "电子邮件" },
+        "phoneNumber": { "label": "电话号码" },
+        "rentalLocation": { "label": "出租地点" },
+        "rentalTime": { "label": "租赁时间" },
+        "returnLocation": { "label": "返回地点" },
+        "returnTime": { "label": "返回时间" },
+        "content": { "label": "询价内容" },
+        "formBtn": { "label": "提交客服" }
+      },
+      "marketing": {
+        "firstname": { "label": "名" },
+        "lastname": { "label": "姓" },
+        "company": {
+          "label": "公司"
+        },
+        "email": { "label": "电子邮件" },
+        "phoneNumber": { "label": "电话号码" },
+        "content": { "label": "内容" },
+        "formBtn": { "label": "提交" }
+      }
+    }
+  },
+  "services": {
+    "serviceFreeEquipmentTitle": {
+      "label": "免费使用设备"
+    },
+    "serviceSaleEquipmentTitle": {
+      "label": "销售设备"
+    },
+    "serviceSustainabilitySocialTitle": {
+      "label": "可持续性与社会影响"
+    },
+    "serviceFreeEquipmentsubTitle": {
+      "label": "通过与 iCharge 合作，企业可以在无需前期成本的情况下向顾客提供有价值的服务。我们负责从安装到维护和客户服务的一切，确保您的顾客保持充电并持续互动"
+    },
+    "serviceFreeEquipmentbody1": {
+      "label": "无需支付设备费用、硬件升级费费用或全方位维护服务费用"
+    },
+    "serviceFreeEquipmentbody2": {
+      "label": "客户的设备保持充电，提升他们的整体体验"
+    },
+    "serviceFreeEquipmentbody3": {
+      "label": "使您的企业成为技术先进且以顾客为中心的公司"
+    },
+    "serviceSaleEquipmentsubTitle": {
+      "label": "对于希望拥有充电站的企业，我们提供购买选项，使您能够提供此服务，同时创造额外的收入来源."
+    },
+    "serviceSaleEquipmentbody1": {
+      "label": "拥有充电站并从移动电源租赁中获取收入"
+    },
+    "serviceSaleEquipmentbody2": {
+      "label": "定制化和品牌推广机会"
+    },
+    "serviceSaleEquipmentbody3": {
+      "label": "增加顾客的进店流量和互动"
+    },
+    "serviceSustainabilitySocialbody": {
+      "label": "在 Quanta Dance Inc.，我们致力于通过使用耐用且可重复使用的移动电源来减少电子废物。我们的充电站环保，推动支持绿色未来的生态解决方案，助力减少一次性电池废物的全球努力。"
+    },
+    "servicesHeading": { "label": "灵活的充电解决方案" },
+    "servicesSubHeading": {
+      "label": "为您的顾客提供轻松保持联系的电力。无论是免费使用还是拥有设备，iCharge 提供灵活的解决方案，适合您的业务并提升顾客体验。"
+    },
+    "viewProducts": { "label": "查看產品" },
+    "sectorHeading": { "label": "我們服務的行業" },
+    "sectorSubHeading": { "label": "為任何人、任何時間、任何地點提供電力" },
+    "hospitality": {
+      "title": { "label": "酒店业" },
+      "subtitle": {
+        "label": "通过提供便捷的充电选项，在酒店、餐厅、咖啡厅和酒吧提升客人的体验，使访客能够保持联系"
+      },
+      "description": {
+        "sub1": { "label": "提升客人满意度，带来正面评价和重复访问" },
+        "sub2": { "label": "鼓励客人花更多时间在公共区域" },
+        "sub3": {
+          "label": "通过提供独特且以顾客为中心的服务，让您的企业脱颖而出"
+        }
+      }
+    },
+    "healthcare": {
+      "title": { "label": "医疗" },
+      "subtitle": {
+        "label": "在医院、诊所、健身房和健康中心提供充电站，让患者和访客的访问更加舒适，从而提供安心感"
+      },
+      "description": {
+        "sub1": { "label": "通过便捷的充电设施改善患者和访客的体验" },
+        "sub2": { "label": "减轻依赖手机进行重要通信的访客的压力" },
+        "sub3": { "label": "展示您的设施对创新和顾客服务的承诺" }
+      }
+    },
+    "transport": {
+      "title": { "label": "交通" },
+      "subtitle": {
+        "label": "在机场、巴士总站、火车站和其他交通枢纽提供便捷的充电解决方案，保持旅客的联系"
+      },
+      "description": {
+        "sub1": { "label": "为乘客提供重要的充电服务，减少低电量的压力" },
+        "sub2": { "label": "提升顾客满意度，改善对您交通枢纽的看法" },
+        "sub3": { "label": "增加旅客在机场商店和咖啡厅等商业区的停留时间" }
+      }
+    },
+    "events": {
+      "title": { "label": "活动" },
+      "title2": { "label": "休闲与活动" },
+      "subtitle": {
+        "label": "在音乐会、节日、展览和体育赛事期间提供可靠的充电选项，保持参与者的互动和联系"
+      },
+      "description": {
+        "sub1": { "label": "让参加者保持联系，便于他们在网上分享自己的体验" },
+        "sub2": { "label": "减少因电量不足而带来的烦恼，提升整体活动体验" },
+        "sub3": { "label": "增加停留时间，尤其是在多日活动中" }
+      }
+    },
+    "retail": {
+      "title": { "label": "零售" },
+      "subtitle": {
+        "label": "通过在购物中心、超市、百货公司和精品店提供充电站，增强购物体验，鼓励顾客逗留更长时间"
+      },
+      "description": {
+        "sub1": {
+          "label": "增加停留时间，促进更多消费"
+        },
+        "sub2": {
+          "label": "表明您的企业重视顾客满意度"
+        },
+        "sub3": {
+          "label": "可定制品牌设计以符合店铺美学"
+        },
+        "sub4": {
+          "label": "通过提供增值服务，使您比竞争对手更具优势"
+        }
+      }
+    },
+    "productHeading": { "label": "产品" },
+    "productMore": { "label": "更多" },
+    "contents": { "label": "内容" },
+    "size": { "label": "尺寸" },
+    "wattage": { "label": "瓦数" },
+    "slot": { "label": "插槽" },
+    "powerbanks": { "label": "移动电源" },
+    "standby": { "label": "待机" },
+    "fullload": { "label": "满载" },
+    "icharge6desc": {
+      "label": "适合有限空间的小型型号"
+    },
+    "icharge6desc2": {
+      "label": "座位容量：40以下"
+    },
+    "icharge8desc": {
+      "label": "紧凑的标准型号"
+    },
+    "icharge8desc2": {
+      "label": "座位容量：40-80"
+    },
+    "icharge8plusdesc": {
+      "label": "带有广告功能的紧凑型号"
+    },
+    "icharge8plusdesc2": {
+      "label": "座位容量：众多行人"
+    },
+    "icharge12desc": {
+      "label": "标准型号"
+    },
+    "icharge12desc2": {
+      "label": "座位容量：80以上"
+    },
+    "icharge12prodesc": {
+      "label": "带有广告功能的进阶型号"
+    },
+    "icharge12prodesc2": {
+      "label": "座位容量：众多行人"
+    },
+    "icharge24maxdesc": {
+      "label": "高容量并具有广阔广告空间"
+    },
+    "icharge24maxdesc2": {
+      "label": "座位容量：购物中心、大型大厅、宴会厅"
+    },
+    "icharge48promaxdesc": {
+      "label": "高容量并具有广阔广告空间"
+    },
+    "icharge48promaxdesc2": {
+      "label": "座位容量：众多行人"
+    },
+    "ichargestandeesrdesc": {
+      "label": "展示型号（矩形）"
+    },
+    "ichargestandeessdesc": {
+      "label": "展示型号（矩形）"
+    }
+  },
+  "about": {
+    "aboutHeading": {
+      "label": "我们相信在这个世界中，保持连接是轻而易举的。通过我们创新的充电宝站，我们确保您的客户随时随地都能保持充电，随时准备好迎接任何冒险。"
+    },
+    "whoWeAre": {
+      "label": "我们是谁"
+    },
+    "whoWeAreDesc1": {
+      "label": "Quanta Dance Inc. 提供便捷的充电解决方案，让人们在当今的数字世界中保持连接。"
+    },
+    "whoWeAreDesc2": {
+      "label": "我们的全国 iCharge 充电宝站网络确保个人和企业可以在菲律宾随时随地获得可靠的电力。"
+    },
+    "whoWeAreDesc3": {
+      "label": "我们相信保持充电对于保持连接至关重要，无论是在日常活动还是关键时刻。"
+    },
+    "stayPowered": {
+      "label": "保持电力"
+    },
+    "stayConnected": {
+      "label": "保持连接"
+    },
+    "OurMission": {
+      "label": "我们的使命"
+    },
+    "OurMissionDesc": {
+      "label": "我们的目标是在菲律宾提供方便可靠的充电宝借用站，并计划未来扩展到全球市场。通过与企业合作，我们提升零售、酒店、交通、医疗和活动场所的顾客体验，提供随时随地保持充电的无缝解决方案。"
+    },
+    "ourVision": {
+      "label": "我们的愿景"
+    },
+    "ourVisionDesc": {
+      "label": "成为移动充电解决方案的领先供应商，确保每个人无论身处本地还是全球任何地方，都能随时保持连接。我们的愿景包括将解决方案扩展至不仅是菲律宾的高流量区域，还覆盖全球主要城市。"
+    },
+    "ourReach": {
+      "label": "我们的覆盖范围"
+    },
+    "ourReachDesc1": {
+      "label": "我们的 iCharge 站点在全国的购物中心、餐厅、医院、交通枢纽和活动场所迅速扩展。"
+    },
+    "ourReachDesc2": {
+      "label": "配备 GCash、GrabPay、Alipay、Maya、WeChat Pay、UnionBank 和 BDO 等集成支付系统，我们的站点提供方便、无忧的移动电力接入，让充电变得比以往任何时候都容易。"
+    },
+    "ourReachDesc3": {
+      "label": "这种灵活性与全球充电网络相呼应，为客户提供无缝的体验，无论他们走到哪里。"
+    },
+    "summaryHead1": {
+      "label": "先进技术解决方案"
+    },
+    "summaryDesc1": {
+      "label": "我们的专有技术确保企业和终端用户都能享受无缝的充电体验。该系统具有实时监控和直观界面，简化了充电站的管理"
+    },
+    "keyFeaturesHead": {
+      "label": "主要功能："
+    },
+    "keyFeaturesList11": {
+      "label": "实时监控：通过即时数据洞察高效管理站点"
+    },
+    "keyFeaturesList12": {
+      "label": "全球支付集成：支持包括 GCash、GrabPay、Alipay 和信用卡在内的多种支付方式，使充电服务能够在本地和国际上使用"
+    },
+    "keyFeaturesList13": {
+      "label": "全天候技术支持：为所有合作伙伴和终端用户提供，确保运营稳定和客户满意度"
+    },
+    "summaryHead2": {
+      "label": "内部 IT 与软件解决方案"
+    },
+    "summaryDesc2": {
+      "label": "我们的专有软件确保无缝的充电体验，具有实时监控和简便的界面。该软件支持企业高效管理充电站，提供快捷交易和流畅运营"
+    },
+    "keyFeaturesList21": {
+      "label": "实时监控：通过实时数据洞察高效管理站点"
+    },
+    "keyFeaturesList22": {
+      "label": "用户友好界面：简化客户的充电体验"
+    },
+    "keyFeaturesList23": {
+      "label": "全天候技术支持：为企业和客户提供，确保运营稳定"
+    },
+    "summaryHead3": {
+      "label": "专有硬件"
+    },
+    "summaryDesc3": {
+      "label": "我们的充电宝站采用定制设计的硬件，适应不同场所。无论是大型购物中心还是小型咖啡馆，我们的站点都灵活高效"
+    },
+    "keyFeaturesList31": {
+      "label": "可扩展性，满足大小场所的需求"
+    },
+    "keyFeaturesList32": {
+      "label": "高容量，适用于人流密集的繁忙区域"
+    },
+    "keyFeaturesList33": {
+      "label": "便捷易用，让用户能轻松租借和归还充电宝"
+    }
+  }
+}
