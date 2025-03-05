@@ -78,6 +78,7 @@ const Sector = (): ReactElement => {
               onClick={() => handleSectorNavigate(title)}
             />
           ))}
+          qweqwe
         </div>
         <div className="hidden grid-cols-3 gap-10 lg:grid">
           {bottomSector.map(({ title, bgImage }, index) => (
